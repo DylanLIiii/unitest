@@ -4,6 +4,7 @@
 # colon related 
 build/ 
 install/
+log/
 
 ### Linux ###
 *~
